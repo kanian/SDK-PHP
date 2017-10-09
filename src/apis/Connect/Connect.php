@@ -2,7 +2,6 @@
 
 namespace RecastAI\apis\Connect;
 
-require 'vendor/autoload.php';
 
 /**
 * Class Connect

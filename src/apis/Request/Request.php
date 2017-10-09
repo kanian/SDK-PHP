@@ -2,7 +2,6 @@
 
 namespace RecastAI\apis\Request;
 
-require 'vendor/autoload.php';
 
 /**
 * Class Request

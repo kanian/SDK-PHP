@@ -6,3 +6,4 @@ node_modules
 file.wav
 test.php
 npm-debug.log
+/nbproject/private/
