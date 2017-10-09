@@ -1,13 +1,17 @@
 {
-  "name": "recastai/sdk-php",
-  "description": "The official PHP SDK Recast.AI",
-  "version": "3.1.1",
+  "name": "kanian/reactai-sdk-php-no-require-autoload",
+  "description": "PHP SDK Recast.AI with Explicit Require Autoload Statements Removed",
+  "version": "1.0",
   "license": "MIT",
-  "homepage": "https://recast.ai",
+  "homepage": "",
   "authors": [
     {
       "name": "Marian André",
       "email": "marian.andre@recast.ai"
+    },
+	{
+      "name": "Patrick Assoa Adou",
+      "email": "patrick.assoa.adou@gmail.com"
     }
   ],
   "minimum-stability": "dev",
