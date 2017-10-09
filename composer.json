@@ -1,5 +1,5 @@
 {
-  "name": "kanian/reactai-sdk-php-no-require-autoload",
+  "name": "kanian/recastai-sdk-php-no-require-autoload",
   "description": "PHP SDK Recast.AI with Explicit Require Autoload Statements Removed",
   "version": "1.0",
   "license": "MIT",
